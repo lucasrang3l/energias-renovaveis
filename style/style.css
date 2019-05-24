@@ -222,6 +222,7 @@ footer li {
 
 footer .texto {
     max-width: 80%;
+    margin-bottom: 26px;
 }
 
 .rodape {
@@ -365,6 +366,7 @@ footer .texto {
 
     .outros {
         display: block;
+        margin-bottom: 44px;
     }
 
     .outros ul {
